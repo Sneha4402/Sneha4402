@@ -3,6 +3,7 @@
 🎓 B.E. EEE Graduate from SSN College of Engineering (2023)  
 💻 Passionate Frontend Developer skilled in ReactJS, Bootstrap, JavaScript, HTML, CSS  
 🚀 Currently building responsive web apps & contributing to open-source   
+ 🔭 Here's my [portfolio](https://portfolio-demo-eda5f.web.app/)  
 
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sneka-s-bb562a249/) <br/> 
